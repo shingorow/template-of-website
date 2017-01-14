@@ -1,3 +1,3 @@
 'use strict'
 const $ = require('jquery');
-require('./smooth-scroll.js');
+import './smooth-scroll.js';
